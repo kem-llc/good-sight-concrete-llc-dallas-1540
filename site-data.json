@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "Good Sight Concrete LLC",
+    "shortName": "Good Sight Concrete",
+    "tagline": "Solid Foundations, Stunning Finishes",
+    "niche": "Concrete Contractor",
+    "phone": "(214) 875-1540",
+    "address": "1218 Iowa Ave, Dallas, TX 75216",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7:00 AM - 5:00 PM, Sat 8:00 AM - 12:00 PM",
+    "ctaLabel": "Get a Free Quote",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Top Concrete Contractor in Dallas, TX | Good Sight Concrete LLC",
+    "description": "Good Sight Concrete LLC offers expert concrete services in Dallas, TX. From driveways to patios, we deliver durable, beautiful results. Call (214) 875-1540 for a free quote."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Concrete Experts",
+      "headline": "Premium Concrete Work for Your Home & Business",
+      "subheadline": "We specialize in driveways, patios, foundations, and more. Quality craftsmanship, on-time completion, and competitive pricing.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "View Our Work"
+    },
+    "stats": [
+      {
+        "value": "4.8",
+        "label": "Average Star Rating"
+      },
+      {
+        "value": "150+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "12+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Client Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Concrete",
+        "title": "Beautiful, Long-Lasting Driveways & Patios",
+        "body": "Transform your property with custom concrete solutions designed to enhance curb appeal and withstand Texas weather. Our team uses top-grade materials and proven techniques for results that last.",
+        "bullets": [
+          "Stamped and stained decorative options",
+          "Proper base preparation for durability",
+          "Sealing and maintenance advice included"
+        ],
+        "reverse": false,
+        "cardLabel": "Project Spotlight",
+        "cardTitle": "Modern Patio Makeover",
+        "cardBody": "A Dallas homeowner wanted a stylish outdoor living space. We installed a stamped concrete patio with a custom stain, creating a beautiful entertainment area that added significant property value."
+      },
+      {
+        "eyebrow": "Commercial Concrete",
+        "title": "Heavy-Duty Concrete for Businesses",
+        "body": "From parking lots to warehouse floors, our commercial concrete services are built to handle high traffic and heavy loads. We work around your schedule to minimize disruption.",
+        "bullets": [
+          "Reinforced concrete for industrial strength",
+          "ADA-compliant sidewalks and ramps",
+          "Fast turnaround for business continuity"
+        ],
+        "reverse": true,
+        "cardLabel": "Project Spotlight",
+        "cardTitle": "Retail Parking Lot Resurfacing",
+        "cardBody": "A busy shopping center needed a durable, safe parking lot. We resurfaced the entire area with reinforced concrete, including striping and drainage improvements, completed ahead of schedule."
+      }
+    ],
+    "whyTitle": "Why Choose Good Sight Concrete?",
+    "whyChooseUs": [
+      {
+        "title": "Locally Owned & Operated",
+        "description": "We're proud to serve the Dallas community. As a local business, we understand the unique needs of Texas properties and are committed to building lasting relationships."
+      },
+      {
+        "title": "Premium Materials & Techniques",
+        "description": "We use only the highest quality concrete and modern installation methods to ensure your project stands the test of time. No shortcuts, just excellence."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "You get a detailed, upfront quote with no hidden fees. We believe in honest communication and fair pricing, so you know exactly what to expect."
+      },
+      {
+        "title": "Exceptional Craftsmanship",
+        "description": "Our skilled team takes pride in every pour. From precise leveling to flawless finishes, we pay attention to every detail to deliver results that exceed expectations."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Good Sight Concrete did an amazing job on our driveway. The team was professional, on time, and the quality is top-notch. Highly recommend!",
+        "author": "Michael R.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "We hired them for a patio and fire pit area. The design consultation was thorough, and the final result is beautiful. Our backyard is now our favorite spot.",
+        "author": "Lisa T.",
+        "role": "Oak Lawn Resident"
+      },
+      {
+        "quote": "As a property manager, I need reliable contractors. Good Sight Concrete has handled multiple projects for us, always delivering on time and within budget. Great communication too.",
+        "author": "David K.",
+        "role": "Commercial Property Manager"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Start Your Concrete Project?",
+      "subheadline": "Contact us today for a free, no-obligation quote. Let's bring your vision to life.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (214) 875-1540"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Good Sight Concrete LLC, we offer a full range of concrete services for residential and commercial clients in Dallas, TX. Our experienced team delivers durable, attractive solutions tailored to your needs and budget."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Concrete Driveways",
+      "shortDescription": "Enhance your home's curb appeal with a durable, custom concrete driveway.",
+      "longDescription": "Your driveway is one of the first things people notice about your home. We design and install concrete driveways that combine strength and style, with options for stamping, staining, and borders. Our process includes proper base preparation to prevent cracking and ensure longevity.",
+      "benefits": [
+        "Increased property value",
+        "Low maintenance and long-lasting",
+        "Customizable colors and patterns",
+        "Withstands heavy vehicles and Texas heat"
+      ],
+      "process": [
+        {
+          "title": "Consultation & Design",
+          "description": "We meet with you to discuss your vision, measure the area, and recommend the best concrete type and finish for your needs."
+        },
+        {
+          "title": "Site Preparation",
+          "description": "We excavate, grade, and install a sturdy base to ensure proper drainage and prevent future settling."
+        },
+        {
+          "title": "Pouring & Finishing",
+          "description": "Our team pours the concrete, applies your chosen finish, and seals it for protection. We ensure a smooth, even surface."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a concrete driveway last?",
+          "answer": "With proper installation and maintenance, a concrete driveway can last 30 years or more. We use high-quality materials and techniques to maximize durability."
+        },
+        {
+          "question": "Can I add decorative elements to my driveway?",
+          "answer": "Absolutely! We offer stamped patterns, exposed aggregate, and a variety of stain colors to match your home's style."
+        }
+      ],
+      "slug": "concrete-driveways"
+    },
+    {
+      "icon": "02",
+      "title": "Concrete Patios",
+      "shortDescription": "Create an outdoor oasis with a custom concrete patio perfect for entertaining.",
+      "longDescription": "A concrete patio extends your living space and provides a durable area for relaxation and gatherings. We design patios that complement your landscape, from simple slabs to elaborate stamped designs. Our team ensures proper slope for drainage and a finish that resists staining.",
+      "benefits": [
+        "Year-round outdoor enjoyment",
+        "Seamless integration with landscaping",
+        "Stain and weather resistant",
+        "Adds functional living space"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We discuss your patio goals, review design options, and help you choose the perfect shape, size, and finish."
+        },
+        {
+          "title": "Excavation & Base",
+          "description": "We prepare the site by excavating and laying a compacted base to support the concrete and prevent shifting."
+        },
+        {
+          "title": "Installation & Sealing",
+          "description": "We pour, finish, and seal the concrete to protect against the elements. We also add control joints to minimize cracking."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does it take to install a concrete patio?",
+          "answer": "Most residential patios are completed in 2-4 days, depending on size and complexity. We'll provide a timeline during your consultation."
+        },
+        {
+          "question": "What maintenance does a concrete patio require?",
+          "answer": "Sealing every 2-3 years and regular cleaning with mild soap and water will keep your patio looking great. We offer resealing services."
+        }
+      ],
+      "slug": "concrete-patios"
+    },
+    {
+      "icon": "03",
+      "title": "Concrete Foundations",
+      "shortDescription": "Build on a solid foundation with our expert concrete foundation services.",
+      "longDescription": "A strong foundation is critical for any structure. We specialize in residential and commercial foundations, including slab-on-grade, stem wall, and pier and beam. Our team follows strict engineering standards to ensure stability and compliance with local codes.",
+      "benefits": [
+        "Engineered for structural integrity",
+        "Compliant with Dallas building codes",
+        "Moisture protection and insulation options",
+        "Long-term peace of mind"
+      ],
+      "process": [
+        {
+          "title": "Site Evaluation",
+          "description": "We assess soil conditions, drainage, and load requirements to design the right foundation for your project."
+        },
+        {
+          "title": "Forming & Reinforcement",
+          "description": "We set forms and install steel reinforcement (rebar) to provide strength and prevent cracking."
+        },
+        {
+          "title": "Pouring & Curing",
+          "description": "Concrete is poured and carefully cured to achieve maximum strength. We monitor the process to ensure optimal results."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer foundation repair?",
+          "answer": "Yes, we provide foundation repair services including underpinning, slab jacking, and crack injection to restore stability."
+        },
+        {
+          "question": "How long does a foundation need to cure before building?",
+          "answer": "Typically 7 days for light loads and 28 days for full strength. We'll advise based on your specific project."
+        }
+      ],
+      "slug": "concrete-foundations"
+    },
+    {
+      "icon": "04",
+      "title": "Commercial Concrete",
+      "shortDescription": "Reliable concrete solutions for businesses, from parking lots to industrial floors.",
+      "longDescription": "We understand the demands of commercial properties. Our services include parking lot construction, warehouse floors, sidewalks, curbs, and loading docks. We prioritize durability, safety, and minimal downtime to keep your business running smoothly.",
+      "benefits": [
+        "High-strength concrete for heavy traffic",
+        "ADA-compliant installations",
+        "Efficient project management",
+        "Competitive commercial pricing"
+      ],
+      "process": [
+        {
+          "title": "Needs Assessment",
+          "description": "We evaluate your property's traffic patterns, load requirements, and any regulatory needs to design the best solution."
+        },
+        {
+          "title": "Scheduling & Prep",
+          "description": "We work around your business hours to minimize disruption. Site preparation includes grading, base installation, and forming."
+        },
+        {
+          "title": "Installation & Finishing",
+          "description": "Our crew pours and finishes the concrete with attention to drainage and safety. We also apply sealants and markings as needed."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you work on an active business site?",
+          "answer": "Yes, we coordinate with you to schedule work during off-hours or phase the project to maintain access."
+        },
+        {
+          "question": "What is the typical warranty for commercial concrete?",
+          "answer": "We offer a 5-year warranty on materials and workmanship for commercial projects, with options for extended coverage."
+        }
+      ],
+      "slug": "commercial-concrete"
+    }
+  ],
+  "about": {
+    "headline": "About Good Sight Concrete LLC",
+    "mission": "To provide Dallas with superior concrete services through craftsmanship, integrity, and a commitment to customer satisfaction.",
+    "story": [
+      "Good Sight Concrete LLC was founded on the belief that quality concrete work transforms properties and builds lasting value. With over a decade of experience, our team has honed skills in both residential and commercial concrete, earning a reputation for reliability and excellence. We started small, focusing on driveways and patios, and grew through word-of-mouth referrals from happy customers.",
+      "Today, we serve the entire Dallas area with a full range of concrete services. Our approach combines time-tested techniques with modern innovations to deliver results that stand out. Every project, big or small, receives the same dedication to detail and customer care. We're proud to be a locally owned business that treats every client like a neighbor."
+    ],
+    "highlight": {
+      "stat": "4.8",
+      "label": "Average Star Rating from Happy Clients"
+    },
+    "coreValues": [
+      {
+        "title": "Quality",
+        "description": "We never compromise on materials or workmanship. Every pour is done with precision and care."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest communication, transparent pricing, and keeping our promises are the foundation of our business."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our priority. We listen, advise, and deliver solutions that meet your needs."
+      },
+      {
+        "title": "Community",
+        "description": "As a local business, we're invested in the Dallas community. We support local causes and take pride in beautifying our city."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Contact Good Sight Concrete LLC",
+    "subheadline": "Ready to start your project? Reach out for a free consultation and estimate.",
+    "primaryCta": "Get a Free Quote",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Fort Worth",
+      "Arlington",
+      "Plano",
+      "Garland",
+      "Irving",
+      "Mesquite",
+      "Richardson"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.8,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Concrete Contractor",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148751540",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
